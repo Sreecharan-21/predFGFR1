@@ -1,0 +1,4 @@
+MPC8,nAromBond,nN,MDEN.23,MDEN.33,minsssN,
+                          SpMax1_Bhp,SM1_Dzi,naaaC,MDEC.23,SCH.7,IC2,VCH.5,SpMax2_Bhv,
+                          SpMin4_Bhi,GGI7,SpMin3_Bhi,GGI5,SpMin2_Bhe,SpMax8_Bhp,
+                          R_TpiPCTPC,AATS0i,AATS1i,AATS5i, AATS6i
