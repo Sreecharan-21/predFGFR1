@@ -2,8 +2,8 @@
 predFGFR1 is a Machine Learning model of Fibroblast Growth Factor Receptor1 (FGFR1) inhibitors using Simplified Molecular Input Line Entry System (SMILES) notation of Compounds
 # CONTENTS
 The files contained in the repository are as follows:
-1. Prediction_program.Rda: Main script to run prediction
-2. Smiles.smi: User input structures (multiple)
+1. Prediction_program: Main script to run prediction
+2. Smiles: User input structures (multiple)
 3. PaDEL_Descriptor: Folder with an executable for feature calculation
 4. Training_Set: Training dataset
 # REQUIREMENTS
