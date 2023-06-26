@@ -10,12 +10,15 @@ The files contained in the repository are as follows:
 ## Data cleaning and manipulating
 1. tidyverse
 2. caret
-## Feature Selection
+## Feature Selection and Generation
 1. Boruta
 2. randomForest
+3. rJava
+4. rjson
+5. RCurl
 ## Model Development
 1. e1071
-2. nnet
+2. randomForest
 # USAGE
 In order to run FGFR1 inhibitor predictions, save input structures as SMILES in a single file (e.g. smiles.smi)
 1.	Download this repository and ensure that all the files are present in the same folder when running the script
